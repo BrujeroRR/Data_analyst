@@ -1,6 +1,6 @@
 # Proyecto N°2 - Data Analyst
 
-(https://2.bp.blogspot.com/_K-TXLQR7DhQ/TD_Zo3BFBjI/AAAAAAAACsI/TvFGPEGiUSU/s1600/planecrash700.jpg)
+https://2.bp.blogspot.com/_K-TXLQR7DhQ/TD_Zo3BFBjI/AAAAAAAACsI/TvFGPEGiUSU/s1600/planecrash700.jpg
 
 
 ## Rol a desarrollar
