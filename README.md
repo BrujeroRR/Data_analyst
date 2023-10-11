@@ -26,10 +26,10 @@ En este KPI luego de lo graficos del EDA vi que los paises con mayor cantidad de
 En este KPI lo que hice fue calcular la tasa de supervivencia del 2001 al 2011 y la tasa de supervivencia del 2011 al 2021 y lo que queria era que en la decada actual del 2011 al 2021 esa tasa de supervivencia aumente mas que la anterior decada entonces eso querria decir que o los aviones son mas seguros o hay menos accidentes pero cuando hice el analisis de cada uno me dio que lla tasa de supervivencia paso de 30% a 27%, eso significa que disminuyo entonces hay menos sobrevivientes y mas muertes por ende no se cumple el objetivo de la KPI solicitada.
 
 ## Dashboard
+En el Dashboard trate de incormporar la mayor informacion que tenia en el Visual Code, mucho que no pero los mas importante para que cualquier persona que mire primero el dashboard pueda ver de que estamos hablando, el analisis de los accidentes aereos que suceden en el mundo y los KPI que se realizaron. 
 
-
-
-## Conclusion
-
-(Resumen de las conclusiones y hallazgos del proyecto)
+## Analisis personal
+A medida que iba avanzando en este proyecto iba entendiendo siempre un poquito mas, pero cuando estaba terminando el EDA y arranacando el primer KPI me hice una pregunta sobre este tema;
+¿Cuando es mas seguro viajar en avion entre los años de 1908 y 2021?
+Y esta pregunta la iba a dejar pasar pero no se me iba de la cabeza por ende comence a hacer el analisis, divide todos los años en decadas, luego en cada rango calcule la cantidad de accidentes, el porcentaje de muertes con sus respectivas cantidades de cada decada y llegue ala conclusion de que es mas seguro viajar estos ultimos 10 años, del 2011 al 2021 ya que fue la decada de menor muertes y menor accidentes, sacando la primer decada que seguro era porque no habia tantos aviones.
 
